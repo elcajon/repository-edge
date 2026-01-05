@@ -37,3 +37,4 @@
 - ⬆️ Update esphome to v2025.12.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1004](https://github.com/elcajon/app-code-server/pull/1004))
 - ⬆️ Update esphome to v2025.12.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1005](https://github.com/elcajon/app-code-server/pull/1005))
 - ⬆️ Update 1password/load-secrets-action digest to fdb192f @[renovate[bot]](https://github.com/apps/renovate) ([#1009](https://github.com/elcajon/app-code-server/pull/1009))
+- ⬆️ Pin dependencies @[renovate[bot]](https://github.com/apps/renovate) ([#1012](https://github.com/elcajon/app-code-server/pull/1012))
