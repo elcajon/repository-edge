@@ -7,10 +7,9 @@ on:
     types: ["update"]
 
 jobs:
-  prepare:
+  publish:
+    name: Publish add-on update
     runs-on: ubuntu-latest
-    outputs:
-      updater_token: ${{ steps.set-output.outputs.updater_token }}
     steps:
       - name: 🔐 Load 1Password secrets
         id: load-op
@@ -20,14 +19,9 @@ jobs:
         env:
           OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
           KEY: "op://CI/Github Token/Anmeldedaten"
-
-      - name: Set job output from KEY
-        id: set-output
-        run: |
-          echo "updater_token=${KEY}" >> $GITHUB_OUTPUT
-
-  repository_updater:
-    needs: prepare
-    uses: homeassistant-apps/workflows/.github/workflows/repository-updater.yaml@main
-    secrets:
-      UPDATER_TOKEN: ${{ needs.prepare.outputs.updater_token }}
+      - name: 🚀 Run Repository Updater
+        uses: homeassistant-apps/action-repository-updater@v1.4.1
+        with:
+          addon: ${{ github.event.client_payload.addon }}
+          repository: ${{ github.repository }}
+          token: ${{ env.KEY }}
