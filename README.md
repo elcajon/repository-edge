@@ -25,10 +25,6 @@ This repository was created for:
 - Anybody interested in trying out upcoming add-ons or add-on features.
 - Developers.
 
-If you are more interested in stable releases of our apps (add-ons):
-
-<https://github.com/homeassistant-apps/repository>
-
 ## Installation
 
 Adding this add-ons repository to your Home Assistant instance is
@@ -38,30 +34,20 @@ a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/homeassistant-apps/repository-edge
+https://github.com/elcajon/repository-edge
 ```
 
 ## Add-ons provided by this repository
 
-### &#10003; [Cloudflared][addon-cloudflared]
+### &#10003; [Advanced Code Server][addon-code-server]
 
-![Latest Version][cloudflared-version-shield]
-![Supports aarch64 Architecture][cloudflared-aarch64-shield]
-![Supports amd64 Architecture][cloudflared-amd64-shield]
+![Latest Version][code-server-version-shield]
+![Supports aarch64 Architecture][code-server-aarch64-shield]
+![Supports amd64 Architecture][code-server-amd64-shield]
 
-Use a Cloudflare Tunnel to remotely connect to Home Assistant without opening any ports
+Code Server experience integrated in the Home Assistant frontend.
 
-[:books: Cloudflared add-on documentation][addon-doc-cloudflared]
-
-### &#10003; [Newt][addon-newt]
-
-![Latest Version][newt-version-shield]
-![Supports aarch64 Architecture][newt-aarch64-shield]
-![Supports amd64 Architecture][newt-amd64-shield]
-
-Tunneling client to connect Home Assistant to Pangolin.
-
-[:books: Newt add-on documentation][addon-doc-newt]
+[:books: Advanced Code Server add-on documentation][addon-doc-code-server]
 
 ## Releases
 
@@ -77,8 +63,7 @@ Open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
-- [Open an issue for the add-on: Cloudflared][cloudflared-issue]
-- [Open an issue for the add-on: Newt][newt-issue]
+- [Open an issue for the add-on: Advanced Code Server][code-server-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -86,7 +71,7 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 
 MIT License
 
-Copyright (c) 2026 [homeassistant-apps][github-org]
+Copyright (c) 2026 [elcajon][github-user]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -106,23 +91,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/tree/111588f
-[addon-doc-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/blob/111588f/README.md
-[cloudflared-issue]: https://github.com/homeassistant-apps/app-cloudflared/issues
-[cloudflared-version-shield]: https://img.shields.io/badge/version-111588f-blue.svg
-[cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[addon-newt]: https://github.com/homeassistant-apps/app-newt/tree/cf3e873
-[addon-doc-newt]: https://github.com/homeassistant-apps/app-newt/blob/cf3e873/README.md
-[newt-issue]: https://github.com/homeassistant-apps/app-newt/issues
-[newt-version-shield]: https://img.shields.io/badge/version-cf3e873-blue.svg
-[newt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[newt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[gitlabci-shield]: https://gitlab.com/homeassistant-apps/repository-edge/badges/master/pipeline.svg
-[gitlabci]: https://gitlab.com/homeassistant-apps/repository-edge/pipelines
-[issue]: https://github.com/homeassistant-apps/repository-edge/issues
-[license-shield]: https://img.shields.io/github/license/homeassistant-apps/repository-edge.svg
+[addon-code-server]: https://github.com/elcajon/app-code-server/tree/38a8a30
+[addon-doc-code-server]: https://github.com/elcajon/app-code-server/blob/38a8a30/README.md
+[code-server-issue]: https://github.com/elcajon/app-code-server/issues
+[code-server-version-shield]: https://img.shields.io/badge/version-38a8a30-blue.svg
+[code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
+[code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[gitlabci-shield]: https://gitlab.com/elcajon/repository-edge/badges/master/pipeline.svg
+[gitlabci]: https://gitlab.com/elcajon/repository-edge/pipelines
+[issue]: https://github.com/elcajon/repository-edge/issues
+[license-shield]: https://img.shields.io/github/license/elcajon/repository-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html
-[github-org]: https://github.com/homeassistant-apps
+[github-user]: https://github.com/elcajon
