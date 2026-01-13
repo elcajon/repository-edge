@@ -45,3 +45,4 @@
 - ⬆️ Update cdr/code-server to v4.107.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1017](https://github.com/elcajon/app-code-server/pull/1017))
 - ⬆️ Update cdr/code-server to v4.108.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1018](https://github.com/elcajon/app-code-server/pull/1018))
 - ⬆️ Update yamllint to v1.38.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1020](https://github.com/elcajon/app-code-server/pull/1020))
+- ⬆️ Update esphome to v2025.12.6 @[renovate[bot]](https://github.com/apps/renovate) ([#1021](https://github.com/elcajon/app-code-server/pull/1021))
