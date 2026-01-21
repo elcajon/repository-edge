@@ -48,3 +48,4 @@
 - ⬆️ Update esphome to v2025.12.6 @[renovate[bot]](https://github.com/apps/renovate) ([#1021](https://github.com/elcajon/app-code-server/pull/1021))
 - ⬆️ Update cdr/code-server to v4.108.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1022](https://github.com/elcajon/app-code-server/pull/1022))
 - ⬆️ Update esphome to v2025.12.7 @[renovate[bot]](https://github.com/apps/renovate) ([#1023](https://github.com/elcajon/app-code-server/pull/1023))
+- ⬆️ Update esphome to v2026 @[renovate[bot]](https://github.com/apps/renovate) ([#1024](https://github.com/elcajon/app-code-server/pull/1024))
