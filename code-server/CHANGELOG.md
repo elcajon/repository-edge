@@ -51,3 +51,4 @@
 - ⬆️ Update esphome to v2026 @[renovate[bot]](https://github.com/apps/renovate) ([#1024](https://github.com/elcajon/app-code-server/pull/1024))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.31.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1025](https://github.com/elcajon/app-code-server/pull/1025))
 - ⬆️ Update actions/checkout action to v6.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1026](https://github.com/elcajon/app-code-server/pull/1026))
+- ⬆️ Update esphome to v2026.1.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1027](https://github.com/elcajon/app-code-server/pull/1027))
