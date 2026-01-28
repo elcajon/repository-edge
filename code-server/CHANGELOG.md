@@ -58,3 +58,4 @@
 - ⬆️ Update tailscale/tailscale to v1.94.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1032](https://github.com/elcajon/app-code-server/pull/1032))
 - ⬆️ Update debian_13/openssl to v3.5.4-1~deb13u2 @[renovate[bot]](https://github.com/apps/renovate) ([#1031](https://github.com/elcajon/app-code-server/pull/1031))
 - ⬆️ Update docker/login-action action to v3.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1033](https://github.com/elcajon/app-code-server/pull/1033))
+- ⬆️ Update 1password/load-secrets-action digest to 81bc2a5 @[renovate[bot]](https://github.com/apps/renovate) ([#1034](https://github.com/elcajon/app-code-server/pull/1034))
