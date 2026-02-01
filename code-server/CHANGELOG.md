@@ -62,3 +62,4 @@
 - ⬆️ Update esphome to v2026.1.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1036](https://github.com/elcajon/app-code-server/pull/1036))
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1035](https://github.com/elcajon/app-code-server/pull/1035))
 - ⬆️ Update mikefarah/yq to v4.52.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1037](https://github.com/elcajon/app-code-server/pull/1037))
+- ⬆️ Update mikefarah/yq to v4.52.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1038](https://github.com/elcajon/app-code-server/pull/1038))
