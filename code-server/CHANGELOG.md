@@ -64,3 +64,4 @@
 - ⬆️ Update mikefarah/yq to v4.52.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1037](https://github.com/elcajon/app-code-server/pull/1037))
 - ⬆️ Update mikefarah/yq to v4.52.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1038](https://github.com/elcajon/app-code-server/pull/1038))
 - ⬆️ Update esphome to v2026.1.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1040](https://github.com/elcajon/app-code-server/pull/1040))
+- ⬆️ Update home-assistant/cli to v4.46.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1039](https://github.com/elcajon/app-code-server/pull/1039))
