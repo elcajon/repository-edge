@@ -66,3 +66,4 @@
 - ⬆️ Update esphome to v2026.1.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1040](https://github.com/elcajon/app-code-server/pull/1040))
 - ⬆️ Update home-assistant/cli to v4.46.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1039](https://github.com/elcajon/app-code-server/pull/1039))
 - ⬆️ Update esphome to v2026.1.5 @[renovate[bot]](https://github.com/apps/renovate) ([#1041](https://github.com/elcajon/app-code-server/pull/1041))
+- ⬆️ Update docker/build-push-action action to v6.19.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1042](https://github.com/elcajon/app-code-server/pull/1042))
