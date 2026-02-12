@@ -68,3 +68,4 @@
 - ⬆️ Update esphome to v2026.1.5 @[renovate[bot]](https://github.com/apps/renovate) ([#1041](https://github.com/elcajon/app-code-server/pull/1041))
 - ⬆️ Update docker/build-push-action action to v6.19.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1042](https://github.com/elcajon/app-code-server/pull/1042))
 - ⬆️ Update docker/build-push-action action to v6.19.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1043](https://github.com/elcajon/app-code-server/pull/1043))
+- ⬆️ Update docker/build-push-action action to v6.19.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1044](https://github.com/elcajon/app-code-server/pull/1044))
