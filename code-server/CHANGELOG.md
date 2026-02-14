@@ -70,3 +70,4 @@
 - ⬆️ Update docker/build-push-action action to v6.19.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1043](https://github.com/elcajon/app-code-server/pull/1043))
 - ⬆️ Update docker/build-push-action action to v6.19.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1044](https://github.com/elcajon/app-code-server/pull/1044))
 - ⬆️ Update cdr/code-server to v4.109.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1045](https://github.com/elcajon/app-code-server/pull/1045))
+- ⬆️ Update mikefarah/yq to v4.52.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1046](https://github.com/elcajon/app-code-server/pull/1046))
