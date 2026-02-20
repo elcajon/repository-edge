@@ -72,3 +72,4 @@
 - ⬆️ Update cdr/code-server to v4.109.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1045](https://github.com/elcajon/app-code-server/pull/1045))
 - ⬆️ Update mikefarah/yq to v4.52.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1046](https://github.com/elcajon/app-code-server/pull/1046))
 - ⬆️ Update esphome to v2026.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1047](https://github.com/elcajon/app-code-server/pull/1047))
+- ⬆️ Update esphome to v2026.2.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1048](https://github.com/elcajon/app-code-server/pull/1048))
