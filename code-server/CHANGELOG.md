@@ -77,3 +77,4 @@
 - ⬆️ Update esphome to v2026.2.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1050](https://github.com/elcajon/app-code-server/pull/1050))
 - ⬆️ Update 1password/load-secrets-action digest to 652d567 @[renovate[bot]](https://github.com/apps/renovate) ([#1051](https://github.com/elcajon/app-code-server/pull/1051))
 - ⬆️ Update 1password/load-secrets-action digest to 38b3330 @[renovate[bot]](https://github.com/apps/renovate) ([#1052](https://github.com/elcajon/app-code-server/pull/1052))
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.32.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1053](https://github.com/elcajon/app-code-server/pull/1053))
