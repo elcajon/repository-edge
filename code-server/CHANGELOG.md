@@ -82,3 +82,4 @@
 - ⬆️ Update cdr/code-server to v4.109.5 @[renovate[bot]](https://github.com/apps/renovate) ([#1055](https://github.com/elcajon/app-code-server/pull/1055))
 - ⬆️ Update esphome to v2026.2.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1057](https://github.com/elcajon/app-code-server/pull/1057))
 - ⬆️ Update 1password/load-secrets-action digest to dafbe7c @[renovate[bot]](https://github.com/apps/renovate) ([#1056](https://github.com/elcajon/app-code-server/pull/1056))
+- ⬆️ Update esphome to v2026.2.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1058](https://github.com/elcajon/app-code-server/pull/1058))
