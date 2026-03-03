@@ -79,3 +79,5 @@
 - ⬆️ Update 1password/load-secrets-action digest to 38b3330 @[renovate[bot]](https://github.com/apps/renovate) ([#1052](https://github.com/elcajon/app-code-server/pull/1052))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.32.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1053](https://github.com/elcajon/app-code-server/pull/1053))
 - ⬆️ Update 1password/load-secrets-action digest to cb7c5ac @[renovate[bot]](https://github.com/apps/renovate) ([#1054](https://github.com/elcajon/app-code-server/pull/1054))
+- ⬆️ Update cdr/code-server to v4.109.5 @[renovate[bot]](https://github.com/apps/renovate) ([#1055](https://github.com/elcajon/app-code-server/pull/1055))
+- ⬆️ Update esphome to v2026.2.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1057](https://github.com/elcajon/app-code-server/pull/1057))
