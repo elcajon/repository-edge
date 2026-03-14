@@ -87,3 +87,4 @@
 - ⬆️ Update docker/login-action action to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#1060](https://github.com/elcajon/app-code-server/pull/1060))
 - ⬆️ Update docker/build-push-action action to v7 @[renovate[bot]](https://github.com/apps/renovate) ([#1062](https://github.com/elcajon/app-code-server/pull/1062))
 - ⬆️ Update docker/setup-buildx-action action to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#1061](https://github.com/elcajon/app-code-server/pull/1061))
+- ⬆️ Update cdr/code-server to v4.111.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1064](https://github.com/elcajon/app-code-server/pull/1064))
