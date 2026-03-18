@@ -90,3 +90,4 @@
 - ⬆️ Update cdr/code-server to v4.111.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1064](https://github.com/elcajon/app-code-server/pull/1064))
 - ⬆️ Update 1password/load-secrets-action digest to 18c9485 @[renovate[bot]](https://github.com/apps/renovate) ([#1063](https://github.com/elcajon/app-code-server/pull/1063))
 - ⬆️ Update debian_13/mariadb-client to v1:11.8.6-0+deb13u1 @[renovate[bot]](https://github.com/apps/renovate) ([#1065](https://github.com/elcajon/app-code-server/pull/1065))
+- ⬆️ Update tailscale/tailscale to v1.96.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1070](https://github.com/elcajon/app-code-server/pull/1070))
