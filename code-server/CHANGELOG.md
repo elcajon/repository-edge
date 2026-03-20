@@ -92,3 +92,4 @@
 - ⬆️ Update debian_13/mariadb-client to v1:11.8.6-0+deb13u1 @[renovate[bot]](https://github.com/apps/renovate) ([#1065](https://github.com/elcajon/app-code-server/pull/1065))
 - ⬆️ Update tailscale/tailscale to v1.96.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1070](https://github.com/elcajon/app-code-server/pull/1070))
 - ⬆️ Update esphome to v2026.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1071](https://github.com/elcajon/app-code-server/pull/1071))
+- ⬆️ Update cdr/code-server to v4.112.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1074](https://github.com/elcajon/app-code-server/pull/1074))
