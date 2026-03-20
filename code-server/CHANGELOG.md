@@ -93,3 +93,4 @@
 - ⬆️ Update tailscale/tailscale to v1.96.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1070](https://github.com/elcajon/app-code-server/pull/1070))
 - ⬆️ Update esphome to v2026.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1071](https://github.com/elcajon/app-code-server/pull/1071))
 - ⬆️ Update cdr/code-server to v4.112.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1074](https://github.com/elcajon/app-code-server/pull/1074))
+- ⬆️ Update 1password/load-secrets-action digest to 93d1217 @[renovate[bot]](https://github.com/apps/renovate) ([#1072](https://github.com/elcajon/app-code-server/pull/1072))
