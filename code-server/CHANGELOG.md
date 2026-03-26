@@ -97,3 +97,4 @@
 - ⬆️ Update esphome to v2026.3.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1075](https://github.com/elcajon/app-code-server/pull/1075))
 - ⬆️ Update 1password/load-secrets-action digest to 355a464 @[renovate[bot]](https://github.com/apps/renovate) ([#1076](https://github.com/elcajon/app-code-server/pull/1076))
 - ⬆️ Update 1password/load-secrets-action digest to 92467eb @[renovate[bot]](https://github.com/apps/renovate) ([#1077](https://github.com/elcajon/app-code-server/pull/1077))
+- ⬆️ Update mikefarah/yq to v4.52.5 @[renovate[bot]](https://github.com/apps/renovate) ([#1078](https://github.com/elcajon/app-code-server/pull/1078))
