@@ -99,3 +99,4 @@
 - ⬆️ Update 1password/load-secrets-action digest to 92467eb @[renovate[bot]](https://github.com/apps/renovate) ([#1077](https://github.com/elcajon/app-code-server/pull/1077))
 - ⬆️ Update mikefarah/yq to v4.52.5 @[renovate[bot]](https://github.com/apps/renovate) ([#1078](https://github.com/elcajon/app-code-server/pull/1078))
 - ⬆️ Pin homeassistant-apps/workflows action to 00f2fd9 @[renovate[bot]](https://github.com/apps/renovate) ([#1079](https://github.com/elcajon/app-code-server/pull/1079))
+- ⬆️ Update 1password/load-secrets-action digest to 2a9101f @[renovate[bot]](https://github.com/apps/renovate) ([#1080](https://github.com/elcajon/app-code-server/pull/1080))
