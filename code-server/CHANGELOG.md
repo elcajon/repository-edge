@@ -102,3 +102,4 @@
 - ⬆️ Update 1password/load-secrets-action digest to 2a9101f @[renovate[bot]](https://github.com/apps/renovate) ([#1080](https://github.com/elcajon/app-code-server/pull/1080))
 - ⬆️ Update tailscale/tailscale to v1.96.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1081](https://github.com/elcajon/app-code-server/pull/1081))
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.61.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1082](https://github.com/elcajon/app-code-server/pull/1082))
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.33.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1083](https://github.com/elcajon/app-code-server/pull/1083))
