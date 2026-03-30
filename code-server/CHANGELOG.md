@@ -101,3 +101,4 @@
 - ⬆️ Pin homeassistant-apps/workflows action to 00f2fd9 @[renovate[bot]](https://github.com/apps/renovate) ([#1079](https://github.com/elcajon/app-code-server/pull/1079))
 - ⬆️ Update 1password/load-secrets-action digest to 2a9101f @[renovate[bot]](https://github.com/apps/renovate) ([#1080](https://github.com/elcajon/app-code-server/pull/1080))
 - ⬆️ Update tailscale/tailscale to v1.96.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1081](https://github.com/elcajon/app-code-server/pull/1081))
+- ⬆️ Update DavidAnson/vscode-markdownlint to v0.61.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1082](https://github.com/elcajon/app-code-server/pull/1082))
