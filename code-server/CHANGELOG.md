@@ -103,3 +103,4 @@
 - ⬆️ Update tailscale/tailscale to v1.96.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1081](https://github.com/elcajon/app-code-server/pull/1081))
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.61.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1082](https://github.com/elcajon/app-code-server/pull/1082))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.33.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1083](https://github.com/elcajon/app-code-server/pull/1083))
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.33.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1084](https://github.com/elcajon/app-code-server/pull/1084))
