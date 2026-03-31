@@ -105,3 +105,4 @@
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.33.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1083](https://github.com/elcajon/app-code-server/pull/1083))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.33.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1084](https://github.com/elcajon/app-code-server/pull/1084))
 - ⬆️ Update home-assistant/cli to v5 @[renovate[bot]](https://github.com/apps/renovate) ([#1085](https://github.com/elcajon/app-code-server/pull/1085))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1086](https://github.com/elcajon/app-code-server/pull/1086))
