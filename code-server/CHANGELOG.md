@@ -107,3 +107,4 @@
 - ⬆️ Update home-assistant/cli to v5 @[renovate[bot]](https://github.com/apps/renovate) ([#1085](https://github.com/elcajon/app-code-server/pull/1085))
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1086](https://github.com/elcajon/app-code-server/pull/1086))
 - ⬆️ Update esphome to v2026.3.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1087](https://github.com/elcajon/app-code-server/pull/1087))
+- ⬆️ Update docker/login-action action to v4.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1089](https://github.com/elcajon/app-code-server/pull/1089))
