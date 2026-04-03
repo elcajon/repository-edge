@@ -108,3 +108,5 @@
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1086](https://github.com/elcajon/app-code-server/pull/1086))
 - ⬆️ Update esphome to v2026.3.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1087](https://github.com/elcajon/app-code-server/pull/1087))
 - ⬆️ Update docker/login-action action to v4.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1089](https://github.com/elcajon/app-code-server/pull/1089))
+- ⬆️ Update cdr/code-server to v4.113.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1088](https://github.com/elcajon/app-code-server/pull/1088))
+- ⬆️ Update cdr/code-server to v4.113.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1090](https://github.com/elcajon/app-code-server/pull/1090))
