@@ -110,3 +110,4 @@
 - ⬆️ Update docker/login-action action to v4.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1089](https://github.com/elcajon/app-code-server/pull/1089))
 - ⬆️ Update cdr/code-server to v4.113.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1088](https://github.com/elcajon/app-code-server/pull/1088))
 - ⬆️ Update cdr/code-server to v4.113.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1090](https://github.com/elcajon/app-code-server/pull/1090))
+- ⬆️ Update cdr/code-server to v4.114.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1091](https://github.com/elcajon/app-code-server/pull/1091))
