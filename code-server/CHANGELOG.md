@@ -111,3 +111,4 @@
 - ⬆️ Update cdr/code-server to v4.113.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1088](https://github.com/elcajon/app-code-server/pull/1088))
 - ⬆️ Update cdr/code-server to v4.113.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1090](https://github.com/elcajon/app-code-server/pull/1090))
 - ⬆️ Update cdr/code-server to v4.114.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1091](https://github.com/elcajon/app-code-server/pull/1091))
+- ⬆️ Update debian_13/openssh to v1:10.0p1-7+deb13u2 @[renovate[bot]](https://github.com/apps/renovate) ([#1092](https://github.com/elcajon/app-code-server/pull/1092))
