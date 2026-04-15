@@ -113,3 +113,5 @@
 - ⬆️ Update cdr/code-server to v4.114.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1091](https://github.com/elcajon/app-code-server/pull/1091))
 - ⬆️ Update debian_13/openssh to v1:10.0p1-7+deb13u2 @[renovate[bot]](https://github.com/apps/renovate) ([#1092](https://github.com/elcajon/app-code-server/pull/1092))
 - ⬆️ Update docker/build-push-action action to v7.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1095](https://github.com/elcajon/app-code-server/pull/1095))
+- ⬆️ Update debian_13/openssl to v3.5.5-1~deb13u2 @[renovate[bot]](https://github.com/apps/renovate) ([#1093](https://github.com/elcajon/app-code-server/pull/1093))
+- ⬆️ Update cdr/code-server to v4.115.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1094](https://github.com/elcajon/app-code-server/pull/1094))
