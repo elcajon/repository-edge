@@ -116,3 +116,4 @@
 - ⬆️ Update debian_13/openssl to v3.5.5-1~deb13u2 @[renovate[bot]](https://github.com/apps/renovate) ([#1093](https://github.com/elcajon/app-code-server/pull/1093))
 - ⬆️ Update cdr/code-server to v4.115.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1094](https://github.com/elcajon/app-code-server/pull/1094))
 - ⬆️ Update esphome to v2026.4.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1096](https://github.com/elcajon/app-code-server/pull/1096))
+- ⬆️ Update cdr/code-server to v4.116.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1097](https://github.com/elcajon/app-code-server/pull/1097))
