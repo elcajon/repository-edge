@@ -124,3 +124,4 @@
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.34.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1102](https://github.com/elcajon/app-code-server/pull/1102))
 - ⬆️ Update esphome to v2026.4.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1103](https://github.com/elcajon/app-code-server/pull/1103))
 - ⬆️ Update esphome to v2026.4.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1105](https://github.com/elcajon/app-code-server/pull/1105))
+- ⬆️ Update home-assistant/cli to v5.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1104](https://github.com/elcajon/app-code-server/pull/1104))
