@@ -125,3 +125,5 @@
 - ⬆️ Update esphome to v2026.4.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1103](https://github.com/elcajon/app-code-server/pull/1103))
 - ⬆️ Update esphome to v2026.4.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1105](https://github.com/elcajon/app-code-server/pull/1105))
 - ⬆️ Update home-assistant/cli to v5.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1104](https://github.com/elcajon/app-code-server/pull/1104))
+- ⬆️ Update esphome to v2026.4.5 @[renovate[bot]](https://github.com/apps/renovate) ([#1106](https://github.com/elcajon/app-code-server/pull/1106))
+- ⬆️ Update cdr/code-server to v4.118.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1107](https://github.com/elcajon/app-code-server/pull/1107))
