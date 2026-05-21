@@ -128,3 +128,8 @@
 - ⬆️ Update esphome to v2026.4.5 @[renovate[bot]](https://github.com/apps/renovate) ([#1106](https://github.com/elcajon/app-code-server/pull/1106))
 - ⬆️ Update cdr/code-server to v4.118.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1107](https://github.com/elcajon/app-code-server/pull/1107))
 - ⬆️ Update debian_13/nano to v8.4-1+deb13u1 @[renovate[bot]](https://github.com/apps/renovate) ([#1109](https://github.com/elcajon/app-code-server/pull/1109))
+- ⬆️ Update debian_13/openssl to v3.5.6-1~deb13u1 @[renovate[bot]](https://github.com/apps/renovate) ([#1115](https://github.com/elcajon/app-code-server/pull/1115))
+- ⬆️ Update esphome to v2026.5.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1118](https://github.com/elcajon/app-code-server/pull/1118))
+- ⬆️ Update cdr/code-server to v4.121.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1116](https://github.com/elcajon/app-code-server/pull/1116))
+- ⬆️ Update tailscale/tailscale to v1.98.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1119](https://github.com/elcajon/app-code-server/pull/1119))
+- ⬆️ Update docker/build-push-action action to v7.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1117](https://github.com/elcajon/app-code-server/pull/1117))
