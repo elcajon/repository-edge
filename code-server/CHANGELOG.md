@@ -138,3 +138,4 @@
 - ⬆️ Update homeassistant-apps/workflows digest to 470556c @[renovate[bot]](https://github.com/apps/renovate) ([#1120](https://github.com/elcajon/app-code-server/pull/1120))
 - ⬆️ Update docker/setup-buildx-action action to v4.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1123](https://github.com/elcajon/app-code-server/pull/1123))
 - ⬆️ Update docker/login-action action to v4.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1122](https://github.com/elcajon/app-code-server/pull/1122))
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.35.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1124](https://github.com/elcajon/app-code-server/pull/1124))
