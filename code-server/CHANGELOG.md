@@ -135,3 +135,4 @@
 - ⬆️ Update docker/build-push-action action to v7.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1117](https://github.com/elcajon/app-code-server/pull/1117))
 - ⬆️ Update homeassistant-apps/workflows digest to 607d74c @[renovate[bot]](https://github.com/apps/renovate) ([#1112](https://github.com/elcajon/app-code-server/pull/1112))
 - ⬆️ Update tailscale/tailscale to v1.98.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1121](https://github.com/elcajon/app-code-server/pull/1121))
+- ⬆️ Update homeassistant-apps/workflows digest to 470556c @[renovate[bot]](https://github.com/apps/renovate) ([#1120](https://github.com/elcajon/app-code-server/pull/1120))
