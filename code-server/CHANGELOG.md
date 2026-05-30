@@ -140,3 +140,4 @@
 - ⬆️ Update docker/login-action action to v4.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1122](https://github.com/elcajon/app-code-server/pull/1122))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.35.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1124](https://github.com/elcajon/app-code-server/pull/1124))
 - ⬆️ Update esphome to v2026.5.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1125](https://github.com/elcajon/app-code-server/pull/1125))
+- ⬆️ Update docker/setup-qemu-action action to v4.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1127](https://github.com/elcajon/app-code-server/pull/1127))
