@@ -143,3 +143,4 @@
 - ⬆️ Update docker/setup-qemu-action action to v4.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1127](https://github.com/elcajon/app-code-server/pull/1127))
 - ⬆️ Update cdr/code-server to v4.122.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1126](https://github.com/elcajon/app-code-server/pull/1126))
 - ⬆️ Update esphome to v2026.5.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1129](https://github.com/elcajon/app-code-server/pull/1129))
+- ⬆️ Update cdr/code-server to v4.122.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1130](https://github.com/elcajon/app-code-server/pull/1130))
