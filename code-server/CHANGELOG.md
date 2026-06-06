@@ -145,3 +145,5 @@
 - ⬆️ Update esphome to v2026.5.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1129](https://github.com/elcajon/app-code-server/pull/1129))
 - ⬆️ Update cdr/code-server to v4.122.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1130](https://github.com/elcajon/app-code-server/pull/1130))
 - ⬆️ Update actions/checkout action to v6.0.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1131](https://github.com/elcajon/app-code-server/pull/1131))
+- ⬆️ Update cdr/code-server to v4.123.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1133](https://github.com/elcajon/app-code-server/pull/1133))
+- ⬆️ Update esphome to v2026.5.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1132](https://github.com/elcajon/app-code-server/pull/1132))
