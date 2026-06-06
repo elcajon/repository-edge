@@ -147,3 +147,4 @@
 - ⬆️ Update actions/checkout action to v6.0.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1131](https://github.com/elcajon/app-code-server/pull/1131))
 - ⬆️ Update cdr/code-server to v4.123.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1133](https://github.com/elcajon/app-code-server/pull/1133))
 - ⬆️ Update esphome to v2026.5.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1132](https://github.com/elcajon/app-code-server/pull/1132))
+- ⬆️ Update mikefarah/yq to v4.53.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1134](https://github.com/elcajon/app-code-server/pull/1134))
