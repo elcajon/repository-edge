@@ -151,3 +151,4 @@
 - ⬆️ Update home-assistant/cli to v5.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1136](https://github.com/elcajon/app-code-server/pull/1136))
 - ⬆️ Update debian_13/openssl to v3.5.6-1~deb13u2 @[renovate[bot]](https://github.com/apps/renovate) ([#1135](https://github.com/elcajon/app-code-server/pull/1135))
 - ⬆️ Update cdr/code-server to v4.125.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1138](https://github.com/elcajon/app-code-server/pull/1138))
+- ⬆️ Update homeassistant-apps/workflows digest to add3aa6 @[renovate[bot]](https://github.com/apps/renovate) ([#1137](https://github.com/elcajon/app-code-server/pull/1137))
