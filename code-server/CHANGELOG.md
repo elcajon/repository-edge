@@ -153,3 +153,4 @@
 - ⬆️ Update cdr/code-server to v4.125.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1138](https://github.com/elcajon/app-code-server/pull/1138))
 - ⬆️ Update homeassistant-apps/workflows digest to add3aa6 @[renovate[bot]](https://github.com/apps/renovate) ([#1137](https://github.com/elcajon/app-code-server/pull/1137))
 - ⬆️ Update esphome to v2026.6.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1139](https://github.com/elcajon/app-code-server/pull/1139))
+- ⬆️ Update actions/checkout action to v7 @[renovate[bot]](https://github.com/apps/renovate) ([#1140](https://github.com/elcajon/app-code-server/pull/1140))
