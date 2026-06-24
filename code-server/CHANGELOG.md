@@ -154,3 +154,4 @@
 - ⬆️ Update homeassistant-apps/workflows digest to add3aa6 @[renovate[bot]](https://github.com/apps/renovate) ([#1137](https://github.com/elcajon/app-code-server/pull/1137))
 - ⬆️ Update esphome to v2026.6.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1139](https://github.com/elcajon/app-code-server/pull/1139))
 - ⬆️ Update actions/checkout action to v7 @[renovate[bot]](https://github.com/apps/renovate) ([#1140](https://github.com/elcajon/app-code-server/pull/1140))
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.36.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1141](https://github.com/elcajon/app-code-server/pull/1141))
