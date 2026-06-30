@@ -157,3 +157,4 @@
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.36.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1141](https://github.com/elcajon/app-code-server/pull/1141))
 - ⬆️ Update esphome to v2026.6.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1142](https://github.com/elcajon/app-code-server/pull/1142))
 - ⬆️ Update cdr/code-server to v4.126.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1143](https://github.com/elcajon/app-code-server/pull/1143))
+- ⬆️ Update tailscale/tailscale to v1.98.8 @[renovate[bot]](https://github.com/apps/renovate) ([#1144](https://github.com/elcajon/app-code-server/pull/1144))
