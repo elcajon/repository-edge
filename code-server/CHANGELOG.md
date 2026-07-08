@@ -159,3 +159,4 @@
 - ⬆️ Update cdr/code-server to v4.126.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1143](https://github.com/elcajon/app-code-server/pull/1143))
 - ⬆️ Update tailscale/tailscale to v1.98.8 @[renovate[bot]](https://github.com/apps/renovate) ([#1144](https://github.com/elcajon/app-code-server/pull/1144))
 - ⬆️ Update esphome to v2026.6.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1146](https://github.com/elcajon/app-code-server/pull/1146))
+- ⬆️ Update docker/build-push-action action to v7.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1148](https://github.com/elcajon/app-code-server/pull/1148))
