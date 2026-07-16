@@ -162,3 +162,4 @@
 - ⬆️ Update docker/build-push-action action to v7.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1148](https://github.com/elcajon/app-code-server/pull/1148))
 - ⬆️ Update cdr/code-server to v4.127.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1147](https://github.com/elcajon/app-code-server/pull/1147))
 - ⬆️ Update homeassistant-apps/workflows digest to f05e01b @[renovate[bot]](https://github.com/apps/renovate) ([#1145](https://github.com/elcajon/app-code-server/pull/1145))
+- ⬆️ Update cdr/code-server to v4.128.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1150](https://github.com/elcajon/app-code-server/pull/1150))
