@@ -163,3 +163,8 @@
 - ⬆️ Update cdr/code-server to v4.127.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1147](https://github.com/elcajon/app-code-server/pull/1147))
 - ⬆️ Update homeassistant-apps/workflows digest to f05e01b @[renovate[bot]](https://github.com/apps/renovate) ([#1145](https://github.com/elcajon/app-code-server/pull/1145))
 - ⬆️ Update cdr/code-server to v4.128.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1150](https://github.com/elcajon/app-code-server/pull/1150))
+- ⬆️ Update docker/setup-buildx-action action to v4.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1152](https://github.com/elcajon/app-code-server/pull/1152))
+- ⬆️ Update docker/login-action action to v4.4.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1151](https://github.com/elcajon/app-code-server/pull/1151))
+- ⬆️ Update docker/setup-qemu-action action to v4.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1153](https://github.com/elcajon/app-code-server/pull/1153))
+- ⬆️ Update esphome to v2026.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1154](https://github.com/elcajon/app-code-server/pull/1154))
+- ⬆️ Update homeassistant-apps/workflows digest to 3ebb56d @[renovate[bot]](https://github.com/apps/renovate) ([#1149](https://github.com/elcajon/app-code-server/pull/1149))
