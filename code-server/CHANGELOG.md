@@ -9,6 +9,7 @@
 
 ### 🧰 Maintenance
 
+- Update CI [@elcajon](https://github.com/elcajon) ([#988](https://github.com/elcajon/app-code-server/pull/988))
 - Run release drafter as last job in CI [@lmagyar](https://github.com/lmagyar) ([#1001](https://github.com/elcajon/app-code-server/pull/1001))
 - Add PR's url to the release draft [@lmagyar](https://github.com/lmagyar) ([#1006](https://github.com/elcajon/app-code-server/pull/1006))
 - Update Repository dispatch [@elcajon](https://github.com/elcajon) ([#1008](https://github.com/elcajon/app-code-server/pull/1008))
@@ -172,3 +173,4 @@
 - ⬆️ Update cdr/code-server to v4.129.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1155](https://github.com/elcajon/app-code-server/pull/1155))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.37.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1156](https://github.com/elcajon/app-code-server/pull/1156))
 - ⬆️ Pin homeassistant-apps/workflows action to 3ebb56d @[renovate[bot]](https://github.com/apps/renovate) ([#1158](https://github.com/elcajon/app-code-server/pull/1158))
+- ⬆️ Update homeassistant-apps/workflows digest to 8ad3cfd @[renovate[bot]](https://github.com/apps/renovate) ([#1159](https://github.com/elcajon/app-code-server/pull/1159))
