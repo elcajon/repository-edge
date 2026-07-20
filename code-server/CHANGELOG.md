@@ -14,6 +14,7 @@
 - Update Repository dispatch [@elcajon](https://github.com/elcajon) ([#1008](https://github.com/elcajon/app-code-server/pull/1008))
 - Fix CI Token [@elcajon](https://github.com/elcajon) ([#1010](https://github.com/elcajon/app-code-server/pull/1010))
 - Enhance deployment workflow with information gathering [@elcajon](https://github.com/elcajon) ([#1011](https://github.com/elcajon/app-code-server/pull/1011))
+- Use official release drafter, as a standalone workflow, without delay [@lmagyar](https://github.com/lmagyar) ([#1157](https://github.com/elcajon/app-code-server/pull/1157))
 
 ### 📚 Documentation
 
