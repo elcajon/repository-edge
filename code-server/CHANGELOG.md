@@ -174,3 +174,4 @@
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.37.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1156](https://github.com/elcajon/app-code-server/pull/1156))
 - ⬆️ Pin homeassistant-apps/workflows action to 3ebb56d @[renovate[bot]](https://github.com/apps/renovate) ([#1158](https://github.com/elcajon/app-code-server/pull/1158))
 - ⬆️ Update homeassistant-apps/workflows digest to 8ad3cfd @[renovate[bot]](https://github.com/apps/renovate) ([#1159](https://github.com/elcajon/app-code-server/pull/1159))
+- ⬆️ Update actions/checkout action to v7.0.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1161](https://github.com/elcajon/app-code-server/pull/1161))
