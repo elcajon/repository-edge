@@ -178,3 +178,4 @@
 - ⬆️ Update homeassistant-apps/workflows digest to ef730c6 @[renovate[bot]](https://github.com/apps/renovate) ([#1160](https://github.com/elcajon/app-code-server/pull/1160))
 - ⬆️ Update tailscale/tailscale to v1.98.9 @[renovate[bot]](https://github.com/apps/renovate) ([#1163](https://github.com/elcajon/app-code-server/pull/1163))
 - ⬆️ Update esphome to v2026.7.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1162](https://github.com/elcajon/app-code-server/pull/1162))
+- ⬆️ Update esphome to v2026.7.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1165](https://github.com/elcajon/app-code-server/pull/1165))
