@@ -182,3 +182,4 @@
 - ⬆️ Update docker/login-action action to v4.5.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1167](https://github.com/elcajon/app-code-server/pull/1167))
 - ⬆️ Update homeassistant-apps/workflows digest to 33dd032 @[renovate[bot]](https://github.com/apps/renovate) ([#1166](https://github.com/elcajon/app-code-server/pull/1166))
 - ⬆️ Update cdr/code-server to v4.130.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1168](https://github.com/elcajon/app-code-server/pull/1168))
+- ⬆️ Update docker/login-action action to v4.5.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1170](https://github.com/elcajon/app-code-server/pull/1170))
