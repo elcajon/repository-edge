@@ -184,3 +184,4 @@
 - ⬆️ Update cdr/code-server to v4.130.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1168](https://github.com/elcajon/app-code-server/pull/1168))
 - ⬆️ Update docker/login-action action to v4.5.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1170](https://github.com/elcajon/app-code-server/pull/1170))
 - ⬆️ Update homeassistant-apps/workflows digest to 65123ad @[renovate[bot]](https://github.com/apps/renovate) ([#1169](https://github.com/elcajon/app-code-server/pull/1169))
+- ⬆️ Update DavidAnson/vscode-markdownlint to v0.62.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1171](https://github.com/elcajon/app-code-server/pull/1171))
