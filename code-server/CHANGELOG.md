@@ -186,3 +186,4 @@
 - ⬆️ Update homeassistant-apps/workflows digest to 65123ad @[renovate[bot]](https://github.com/apps/renovate) ([#1169](https://github.com/elcajon/app-code-server/pull/1169))
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.62.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1171](https://github.com/elcajon/app-code-server/pull/1171))
 - ⬆️ Update docker/login-action action to v4.5.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1173](https://github.com/elcajon/app-code-server/pull/1173))
+- ⬆️ Update homeassistant-apps/workflows digest to 9989f2b @[renovate[bot]](https://github.com/apps/renovate) ([#1172](https://github.com/elcajon/app-code-server/pull/1172))
