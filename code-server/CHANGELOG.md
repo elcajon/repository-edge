@@ -188,3 +188,4 @@
 - ⬆️ Update docker/login-action action to v4.5.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1173](https://github.com/elcajon/app-code-server/pull/1173))
 - ⬆️ Update homeassistant-apps/workflows digest to 9989f2b @[renovate[bot]](https://github.com/apps/renovate) ([#1172](https://github.com/elcajon/app-code-server/pull/1172))
 - ⬆️ Update esphome to v2026.7.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1174](https://github.com/elcajon/app-code-server/pull/1174))
+- ⬆️ Update tailscale/tailscale to v1.98.10 @[renovate[bot]](https://github.com/apps/renovate) ([#1175](https://github.com/elcajon/app-code-server/pull/1175))
