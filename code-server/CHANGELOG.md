@@ -191,3 +191,4 @@
 - ⬆️ Update tailscale/tailscale to v1.98.10 @[renovate[bot]](https://github.com/apps/renovate) ([#1175](https://github.com/elcajon/app-code-server/pull/1175))
 - ⬆️ Update docker/login-action action to v4.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1177](https://github.com/elcajon/app-code-server/pull/1177))
 - ⬆️ Update homeassistant-apps/workflows digest to 2d9377a @[renovate[bot]](https://github.com/apps/renovate) ([#1176](https://github.com/elcajon/app-code-server/pull/1176))
+- ⬆️ Update cdr/code-server to v4.131.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1178](https://github.com/elcajon/app-code-server/pull/1178))
