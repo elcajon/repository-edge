@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: 🔐 Load 1Password secrets
         id: load-op
-        uses: 1password/load-secrets-action@3a12b0ab99d9cd590a3e9b5a90ea017210ed9556
+        uses: 1password/load-secrets-action@e544b780808654ba8ceba5fb2fe2897103d92ff4
         with:
           export-env: true
         env:
