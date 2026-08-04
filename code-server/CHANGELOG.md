@@ -193,3 +193,4 @@
 - ⬆️ Update homeassistant-apps/workflows digest to 2d9377a @[renovate[bot]](https://github.com/apps/renovate) ([#1176](https://github.com/elcajon/app-code-server/pull/1176))
 - ⬆️ Update cdr/code-server to v4.131.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1178](https://github.com/elcajon/app-code-server/pull/1178))
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.62.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1179](https://github.com/elcajon/app-code-server/pull/1179))
+- ⬆️ Update tailscale/tailscale to v1.102.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1180](https://github.com/elcajon/app-code-server/pull/1180))
