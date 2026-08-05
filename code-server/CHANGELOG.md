@@ -194,3 +194,4 @@
 - ⬆️ Update cdr/code-server to v4.131.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1178](https://github.com/elcajon/app-code-server/pull/1178))
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.62.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1179](https://github.com/elcajon/app-code-server/pull/1179))
 - ⬆️ Update tailscale/tailscale to v1.102.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1180](https://github.com/elcajon/app-code-server/pull/1180))
+- ⬆️ Update tailscale/tailscale to v1.102.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1181](https://github.com/elcajon/app-code-server/pull/1181))
