@@ -195,3 +195,4 @@
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.62.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1179](https://github.com/elcajon/app-code-server/pull/1179))
 - ⬆️ Update tailscale/tailscale to v1.102.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1180](https://github.com/elcajon/app-code-server/pull/1180))
 - ⬆️ Update tailscale/tailscale to v1.102.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1181](https://github.com/elcajon/app-code-server/pull/1181))
+- ⬆️ Update esphome to v2026.7.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1182](https://github.com/elcajon/app-code-server/pull/1182))
