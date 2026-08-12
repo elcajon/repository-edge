@@ -197,3 +197,4 @@
 - ⬆️ Update tailscale/tailscale to v1.102.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1181](https://github.com/elcajon/app-code-server/pull/1181))
 - ⬆️ Update esphome to v2026.7.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1182](https://github.com/elcajon/app-code-server/pull/1182))
 - ⬆️ Update cdr/code-server to v4.132.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1183](https://github.com/elcajon/app-code-server/pull/1183))
+- ⬆️ Update home-assistant/cli to v5.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1184](https://github.com/elcajon/app-code-server/pull/1184))
