@@ -198,3 +198,5 @@
 - ⬆️ Update esphome to v2026.7.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1182](https://github.com/elcajon/app-code-server/pull/1182))
 - ⬆️ Update cdr/code-server to v4.132.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1183](https://github.com/elcajon/app-code-server/pull/1183))
 - ⬆️ Update home-assistant/cli to v5.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1184](https://github.com/elcajon/app-code-server/pull/1184))
+- ⬆️ Update debian_13/unzip to v6.0-29+deb13u1 @[renovate[bot]](https://github.com/apps/renovate) ([#1185](https://github.com/elcajon/app-code-server/pull/1185))
+- ⬆️ Update debian_13/zip to v3.0-15+deb13u1 @[renovate[bot]](https://github.com/apps/renovate) ([#1186](https://github.com/elcajon/app-code-server/pull/1186))
