@@ -200,3 +200,4 @@
 - ⬆️ Update home-assistant/cli to v5.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1184](https://github.com/elcajon/app-code-server/pull/1184))
 - ⬆️ Update debian_13/unzip to v6.0-29+deb13u1 @[renovate[bot]](https://github.com/apps/renovate) ([#1185](https://github.com/elcajon/app-code-server/pull/1185))
 - ⬆️ Update debian_13/zip to v3.0-15+deb13u1 @[renovate[bot]](https://github.com/apps/renovate) ([#1186](https://github.com/elcajon/app-code-server/pull/1186))
+- ⬆️ Update cdr/code-server to v4.133.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1187](https://github.com/elcajon/app-code-server/pull/1187))
