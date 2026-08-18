@@ -202,3 +202,4 @@
 - ⬆️ Update debian_13/zip to v3.0-15+deb13u1 @[renovate[bot]](https://github.com/apps/renovate) ([#1186](https://github.com/elcajon/app-code-server/pull/1186))
 - ⬆️ Update cdr/code-server to v4.133.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1187](https://github.com/elcajon/app-code-server/pull/1187))
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.4.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1188](https://github.com/elcajon/app-code-server/pull/1188))
+- ⬆️ Update home-assistant/cli to v5.3.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1189](https://github.com/elcajon/app-code-server/pull/1189))
