@@ -208,3 +208,4 @@
 - ⬆️ Update docker/setup-buildx-action action to v4.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1193](https://github.com/elcajon/app-code-server/pull/1193))
 - ⬆️ Update homeassistant-apps/workflows digest to 3e87ab2 @[renovate[bot]](https://github.com/apps/renovate) ([#1192](https://github.com/elcajon/app-code-server/pull/1192))
 - ⬆️ Update esphome to v2026.8.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1194](https://github.com/elcajon/app-code-server/pull/1194))
+- ⬆️ Update mikefarah/yq to v4.53.6 @[renovate[bot]](https://github.com/apps/renovate) ([#1195](https://github.com/elcajon/app-code-server/pull/1195))
