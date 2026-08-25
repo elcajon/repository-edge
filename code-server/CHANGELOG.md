@@ -213,3 +213,4 @@
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.38.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1197](https://github.com/elcajon/app-code-server/pull/1197))
 - ⬆️ Update esphome to v2026.8.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1198](https://github.com/elcajon/app-code-server/pull/1198))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.38.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1199](https://github.com/elcajon/app-code-server/pull/1199))
+- ⬆️ Update cdr/code-server to v4.134.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1200](https://github.com/elcajon/app-code-server/pull/1200))
