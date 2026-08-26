@@ -214,3 +214,4 @@
 - ⬆️ Update esphome to v2026.8.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1198](https://github.com/elcajon/app-code-server/pull/1198))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.38.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1199](https://github.com/elcajon/app-code-server/pull/1199))
 - ⬆️ Update cdr/code-server to v4.134.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1200](https://github.com/elcajon/app-code-server/pull/1200))
+- ⬆️ Update debian_13/openssl to v3.5.7-1~deb13u2 @[renovate[bot]](https://github.com/apps/renovate) ([#1201](https://github.com/elcajon/app-code-server/pull/1201))
