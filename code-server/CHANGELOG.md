@@ -218,3 +218,4 @@
 - ⬆️ Update cdr/code-server to v4.135.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1202](https://github.com/elcajon/app-code-server/pull/1202))
 - ⬆️ Update home-assistant/cli to v5.4.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1203](https://github.com/elcajon/app-code-server/pull/1203))
 - ⬆️ Update esphome to v2026.8.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1204](https://github.com/elcajon/app-code-server/pull/1204))
+- ⬆️ Update docker/setup-qemu-action action to v4.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1205](https://github.com/elcajon/app-code-server/pull/1205))
