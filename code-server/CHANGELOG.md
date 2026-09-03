@@ -220,3 +220,4 @@
 - ⬆️ Update esphome to v2026.8.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1204](https://github.com/elcajon/app-code-server/pull/1204))
 - ⬆️ Update docker/setup-qemu-action action to v4.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1205](https://github.com/elcajon/app-code-server/pull/1205))
 - ⬆️ Update homeassistant-apps/workflows digest to 132b4d9 @[renovate[bot]](https://github.com/apps/renovate) ([#1206](https://github.com/elcajon/app-code-server/pull/1206))
+- ⬆️ Update home-assistant/cli to v5.5.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1207](https://github.com/elcajon/app-code-server/pull/1207))
