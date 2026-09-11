@@ -222,3 +222,5 @@
 - ⬆️ Update homeassistant-apps/workflows digest to 132b4d9 @[renovate[bot]](https://github.com/apps/renovate) ([#1206](https://github.com/elcajon/app-code-server/pull/1206))
 - ⬆️ Update home-assistant/cli to v5.5.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1207](https://github.com/elcajon/app-code-server/pull/1207))
 - ⬆️ Update cdr/code-server to v4.136.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1208](https://github.com/elcajon/app-code-server/pull/1208))
+- ⬆️ Update cdr/code-server to v4.137.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1210](https://github.com/elcajon/app-code-server/pull/1210))
+- ⬆️ Update tailscale/tailscale to v1.102.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1209](https://github.com/elcajon/app-code-server/pull/1209))
