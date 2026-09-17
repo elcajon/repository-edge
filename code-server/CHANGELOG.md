@@ -22,6 +22,7 @@
 
 - Update copyright notice in LICENSE.md [@lmagyar](https://github.com/lmagyar) ([#1007](https://github.com/elcajon/app-code-server/pull/1007))
 - Update Repository dispatch [@elcajon](https://github.com/elcajon) ([#1008](https://github.com/elcajon/app-code-server/pull/1008))
+- 📝 Clarify differences from Studio Code Server in README and docs [@elcajon](https://github.com/elcajon) ([#1223](https://github.com/elcajon/app-code-server/pull/1223))
 
 ### ⬆️ Dependency updates
 
