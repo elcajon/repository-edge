@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Advanced Code Server
+# Home Assistant App: Advanced Code Server
 
 [![Release][release-shield]][release]
 ![Project Stage][project-stage-shield]
@@ -16,15 +16,14 @@ Based on the community add-on [Studio Code Server][hassio-addons], with:
 - Custom s6 services and a cron daemon
 - Tailscale, 1Password CLI, git-crypt, yq, PHP and ShellCheck
 
-Not included: the `packages`, `init_commands` and `config_path` options, and
-aarch64 support.
+Not included: the `packages`, `init_commands` and `config_path` options.
 
-Please be aware that when misused you can destroy your whole system with this add-on.
+Please be aware that when misused you can destroy your whole system with this app.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Home Assistant Add-ons repository contains edge builds of add-ons.
-Edge builds add-ons are based upon the latest development version.
+This Home Assistant Apps repository contains edge builds of apps.
+Edge builds apps are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -33,11 +32,11 @@ Edge builds add-ons are based upon the latest development version.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 - Developers.
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-c468aa6-blue.svg
-[release]: https://github.com/elcajon/app-code-server/tree/c468aa6
+[release-shield]: https://img.shields.io/badge/version-758b00a-blue.svg
+[release]: https://github.com/elcajon/app-code-server/tree/758b00a
 [hassio-addons]: https://github.com/hassio-addons/app-vscode

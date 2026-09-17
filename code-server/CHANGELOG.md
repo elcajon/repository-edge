@@ -7,6 +7,10 @@
 - Fix CI Token [@elcajon](https://github.com/elcajon) ([#1010](https://github.com/elcajon/app-code-server/pull/1010))
 - Enhance deployment workflow with information gathering [@elcajon](https://github.com/elcajon) ([#1011](https://github.com/elcajon/app-code-server/pull/1011))
 
+### 🚀 Enhancements
+
+- 🏗️ Follow Home Assistant's add-on to app rename and restore aarch64 [@elcajon](https://github.com/elcajon) ([#1224](https://github.com/elcajon/app-code-server/pull/1224))
+
 ### 🧰 Maintenance
 
 - Update CI [@elcajon](https://github.com/elcajon) ([#988](https://github.com/elcajon/app-code-server/pull/988))
@@ -23,6 +27,7 @@
 - Update copyright notice in LICENSE.md [@lmagyar](https://github.com/lmagyar) ([#1007](https://github.com/elcajon/app-code-server/pull/1007))
 - Update Repository dispatch [@elcajon](https://github.com/elcajon) ([#1008](https://github.com/elcajon/app-code-server/pull/1008))
 - 📝 Clarify differences from Studio Code Server in README and docs [@elcajon](https://github.com/elcajon) ([#1223](https://github.com/elcajon/app-code-server/pull/1223))
+- 🏗️ Follow Home Assistant's add-on to app rename and restore aarch64 [@elcajon](https://github.com/elcajon) ([#1224](https://github.com/elcajon/app-code-server/pull/1224))
 
 ### ⬆️ Dependency updates
 
