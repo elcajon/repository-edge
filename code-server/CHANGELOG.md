@@ -236,3 +236,4 @@
 - ⬆️ Update esphome to v2026.9.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1218](https://github.com/elcajon/app-code-server/pull/1218))
 - 🔧 Track Debian package pins via Renovate deb datasource [@elcajon](https://github.com/elcajon) ([#1220](https://github.com/elcajon/app-code-server/pull/1220))
 - ⬆️ Update docker-ce-cli to v5:28.5.2-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1221](https://github.com/elcajon/app-code-server/pull/1221))
+- ⬆️ Update docker-ce-cli to v29 @[renovate[bot]](https://github.com/apps/renovate) ([#1222](https://github.com/elcajon/app-code-server/pull/1222))
