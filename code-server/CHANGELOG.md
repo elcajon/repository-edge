@@ -16,6 +16,7 @@
 - Fix CI Token [@elcajon](https://github.com/elcajon) ([#1010](https://github.com/elcajon/app-code-server/pull/1010))
 - Enhance deployment workflow with information gathering [@elcajon](https://github.com/elcajon) ([#1011](https://github.com/elcajon/app-code-server/pull/1011))
 - Use official release drafter, as a standalone workflow, without delay [@lmagyar](https://github.com/lmagyar) ([#1157](https://github.com/elcajon/app-code-server/pull/1157))
+- 🔧 Track Debian package pins via Renovate deb datasource [@elcajon](https://github.com/elcajon) ([#1220](https://github.com/elcajon/app-code-server/pull/1220))
 
 ### 📚 Documentation
 
@@ -233,3 +234,4 @@
 - ⬆️ Update homeassistant-apps/workflows digest to df621bb @[renovate[bot]](https://github.com/apps/renovate) ([#1216](https://github.com/elcajon/app-code-server/pull/1216))
 - ⬆️ Update stale Debian package pins [@elcajon](https://github.com/elcajon) ([#1219](https://github.com/elcajon/app-code-server/pull/1219))
 - ⬆️ Update esphome to v2026.9.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1218](https://github.com/elcajon/app-code-server/pull/1218))
+- 🔧 Track Debian package pins via Renovate deb datasource [@elcajon](https://github.com/elcajon) ([#1220](https://github.com/elcajon/app-code-server/pull/1220))
