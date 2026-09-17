@@ -21,6 +21,7 @@
 - Enhance deployment workflow with information gathering [@elcajon](https://github.com/elcajon) ([#1011](https://github.com/elcajon/app-code-server/pull/1011))
 - Use official release drafter, as a standalone workflow, without delay [@lmagyar](https://github.com/lmagyar) ([#1157](https://github.com/elcajon/app-code-server/pull/1157))
 - 🔧 Track Debian package pins via Renovate deb datasource [@elcajon](https://github.com/elcajon) ([#1220](https://github.com/elcajon/app-code-server/pull/1220))
+- 👷 Run CI once per PR and tighten workflow permissions [@elcajon](https://github.com/elcajon) ([#1227](https://github.com/elcajon/app-code-server/pull/1227))
 
 ### 📚 Documentation
 
@@ -243,3 +244,6 @@
 - 🔧 Track Debian package pins via Renovate deb datasource [@elcajon](https://github.com/elcajon) ([#1220](https://github.com/elcajon/app-code-server/pull/1220))
 - ⬆️ Update docker-ce-cli to v5:28.5.2-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1221](https://github.com/elcajon/app-code-server/pull/1221))
 - ⬆️ Update docker-ce-cli to v29 @[renovate[bot]](https://github.com/apps/renovate) ([#1222](https://github.com/elcajon/app-code-server/pull/1222))
+- 🔧 Fix Renovate tracking for extensions and >= pins [@elcajon](https://github.com/elcajon) ([#1225](https://github.com/elcajon/app-code-server/pull/1225))
+- ⬆️ Update astral-sh/ruff-vscode to v2025.32.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1229](https://github.com/elcajon/app-code-server/pull/1229))
+- ⬆️ Update git-crypt to v0.7.0-0.1+b1 @[renovate[bot]](https://github.com/apps/renovate) ([#1228](https://github.com/elcajon/app-code-server/pull/1228))
