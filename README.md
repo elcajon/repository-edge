@@ -95,7 +95,7 @@ SOFTWARE.
 [addon-doc-code-server]: https://github.com/elcajon/app-code-server/blob/c468aa6/README.md
 [code-server-issue]: https://github.com/elcajon/app-code-server/issues
 [code-server-version-shield]: https://img.shields.io/badge/version-c468aa6-blue.svg
-[code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
+[code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [gitlabci-shield]: https://gitlab.com/elcajon/repository-edge/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/elcajon/repository-edge/pipelines
