@@ -230,3 +230,4 @@
 - ⬆️ Update homeassistant-apps/workflows digest to b4f28ca @[renovate[bot]](https://github.com/apps/renovate) ([#1213](https://github.com/elcajon/app-code-server/pull/1213))
 - ⬆️ Update docker/setup-qemu-action action to v4.4.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1215](https://github.com/elcajon/app-code-server/pull/1215))
 - ⬆️ Update docker/setup-buildx-action action to v4.4.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1217](https://github.com/elcajon/app-code-server/pull/1217))
+- ⬆️ Update homeassistant-apps/workflows digest to df621bb @[renovate[bot]](https://github.com/apps/renovate) ([#1216](https://github.com/elcajon/app-code-server/pull/1216))
