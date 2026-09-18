@@ -2,6 +2,8 @@
 
 ## Unreleased changes since dev - 2026-09-18
 
+- Prettified Code!
+- 👷 Add a devcontainer for testing against a real Supervisor
 - 📸 Add UI screenshots
 - 🐛 Fix the CI findings of the first run
 - Prettified Code!
