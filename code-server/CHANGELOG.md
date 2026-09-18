@@ -2,6 +2,10 @@
 
 ## Unreleased changes since 4.2.3 - 2025-12-09
 
+### ✨ New features
+
+- ⚡️ Drop the compiler, persist Claude Code, pull upstream fixes [@elcajon](https://github.com/elcajon) ([#1239](https://github.com/elcajon/app-code-server/pull/1239))
+
 ### 🐛 Bug fixes
 
 - Fix CI Token [@elcajon](https://github.com/elcajon) ([#1010](https://github.com/elcajon/app-code-server/pull/1010))
@@ -13,6 +17,7 @@
 
 - 🏗️ Follow Home Assistant's add-on to app rename and restore aarch64 [@elcajon](https://github.com/elcajon) ([#1224](https://github.com/elcajon/app-code-server/pull/1224))
 - ⚡️ Build downloads on the build platform instead of under emulation [@elcajon](https://github.com/elcajon) ([#1238](https://github.com/elcajon/app-code-server/pull/1238))
+- ⚡️ Drop the compiler, persist Claude Code, pull upstream fixes [@elcajon](https://github.com/elcajon) ([#1239](https://github.com/elcajon/app-code-server/pull/1239))
 
 ### 🧰 Maintenance
 
