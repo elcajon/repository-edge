@@ -5,7 +5,7 @@ addons:
     repository: elcajon/app-code-server
     target: code-server
     image: ghcr.io/elcajon/code-server/{arch}
-  migration-assistant:
-    repository: elcajon/app-migration-assistant
-    target: migration-assistant
-    image: ghcr.io/elcajon/migration-assistant/{arch}
+  app-assistant:
+    repository: elcajon/app-assistant
+    target: app-assistant
+    image: ghcr.io/elcajon/app-assistant/{arch}
