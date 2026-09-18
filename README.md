@@ -108,10 +108,10 @@ SOFTWARE.
 [code-server-version-shield]: https://img.shields.io/badge/version-3aafd8b-blue.svg
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[addon-migration-assistant]: https://github.com/elcajon/app-migration-assistant/tree/2d16fe1
-[addon-doc-migration-assistant]: https://github.com/elcajon/app-migration-assistant/blob/2d16fe1/README.md
+[addon-migration-assistant]: https://github.com/elcajon/app-migration-assistant/tree/49fbccc
+[addon-doc-migration-assistant]: https://github.com/elcajon/app-migration-assistant/blob/49fbccc/README.md
 [migration-assistant-issue]: https://github.com/elcajon/app-migration-assistant/issues
-[migration-assistant-version-shield]: https://img.shields.io/badge/version-2d16fe1-blue.svg
+[migration-assistant-version-shield]: https://img.shields.io/badge/version-49fbccc-blue.svg
 [migration-assistant-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [migration-assistant-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [gitlabci-shield]: https://gitlab.com/elcajon/repository-edge/badges/master/pipeline.svg
