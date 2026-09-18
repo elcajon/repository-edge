@@ -44,5 +44,5 @@ This repository was created for:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-c91fde6-blue.svg
-[release]: https://github.com/elcajon/app-migration-assistant/tree/c91fde6
+[release-shield]: https://img.shields.io/badge/version-bf5e172-blue.svg
+[release]: https://github.com/elcajon/app-migration-assistant/tree/bf5e172
