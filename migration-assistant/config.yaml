@@ -1,6 +1,6 @@
 ---
 name: App Migration Assistant
-version: dev
+version: 5c2a31c
 slug: migration-assistant
 description: Move an installed app to its new repository, keeping options and data
 url: https://github.com/elcajon/app-migration-assistant
