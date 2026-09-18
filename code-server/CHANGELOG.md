@@ -6,6 +6,7 @@
 
 - Fix CI Token [@elcajon](https://github.com/elcajon) ([#1010](https://github.com/elcajon/app-code-server/pull/1010))
 - Enhance deployment workflow with information gathering [@elcajon](https://github.com/elcajon) ([#1011](https://github.com/elcajon/app-code-server/pull/1011))
+- 🐛 Install Prettier extension from esbenp publisher [@elcajon](https://github.com/elcajon) ([#1234](https://github.com/elcajon/app-code-server/pull/1234))
 
 ### 🚀 Enhancements
 
@@ -250,3 +251,5 @@
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1230](https://github.com/elcajon/app-code-server/pull/1230))
 - ⬆️ Update microsoft/vscode-containers to v2.5.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1231](https://github.com/elcajon/app-code-server/pull/1231))
 - ⬆️ Update microsoft/vscode-pull-request-github to v0.162.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1232](https://github.com/elcajon/app-code-server/pull/1232))
+- ⬆️ Update usernamehw/vscode-error-lens to v3.28.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1236](https://github.com/elcajon/app-code-server/pull/1236))
+- ⬆️ Update redhat-developer/vscode-yaml to v1.24.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1235](https://github.com/elcajon/app-code-server/pull/1235))
