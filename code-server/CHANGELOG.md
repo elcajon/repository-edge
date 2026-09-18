@@ -253,3 +253,4 @@
 - ⬆️ Update microsoft/vscode-pull-request-github to v0.162.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1232](https://github.com/elcajon/app-code-server/pull/1232))
 - ⬆️ Update usernamehw/vscode-error-lens to v3.28.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1236](https://github.com/elcajon/app-code-server/pull/1236))
 - ⬆️ Update redhat-developer/vscode-yaml to v1.24.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1235](https://github.com/elcajon/app-code-server/pull/1235))
+- ⬆️ Update astral-sh/ruff-vscode to v2026 @[renovate[bot]](https://github.com/apps/renovate) ([#1237](https://github.com/elcajon/app-code-server/pull/1237))
