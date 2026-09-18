@@ -108,9 +108,9 @@ SOFTWARE.
 [code-server-version-shield]: https://img.shields.io/badge/version-a0bc1cd-blue.svg
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[addon-migration-assistant]: https://github.com/elcajon/app-migration-assistant/tree/bf5e172
-[addon-doc-migration-assistant]: https://github.com/elcajon/app-migration-assistant/blob/bf5e172/README.md
-[migration-assistant-issue]: https://github.com/elcajon/app-migration-assistant/issues
+[addon-migration-assistant]: https://github.com/elcajon/app-assistant/tree/bf5e172
+[addon-doc-migration-assistant]: https://github.com/elcajon/app-assistant/blob/bf5e172/README.md
+[migration-assistant-issue]: https://github.com/elcajon/app-assistant/issues
 [migration-assistant-version-shield]: https://img.shields.io/badge/version-bf5e172-blue.svg
 [migration-assistant-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [migration-assistant-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
