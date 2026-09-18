@@ -12,6 +12,7 @@
 - Enhance deployment workflow with information gathering [@elcajon](https://github.com/elcajon) ([#1011](https://github.com/elcajon/app-code-server/pull/1011))
 - 🐛 Install Prettier extension from esbenp publisher [@elcajon](https://github.com/elcajon) ([#1234](https://github.com/elcajon/app-code-server/pull/1234))
 - ⚡️ Build downloads on the build platform instead of under emulation [@elcajon](https://github.com/elcajon) ([#1238](https://github.com/elcajon/app-code-server/pull/1238))
+- 🚑 Ship the extensions list in the final image again [@elcajon](https://github.com/elcajon) ([#1240](https://github.com/elcajon/app-code-server/pull/1240))
 
 ### 🚀 Enhancements
 
