@@ -7,10 +7,12 @@
 - Fix CI Token [@elcajon](https://github.com/elcajon) ([#1010](https://github.com/elcajon/app-code-server/pull/1010))
 - Enhance deployment workflow with information gathering [@elcajon](https://github.com/elcajon) ([#1011](https://github.com/elcajon/app-code-server/pull/1011))
 - 🐛 Install Prettier extension from esbenp publisher [@elcajon](https://github.com/elcajon) ([#1234](https://github.com/elcajon/app-code-server/pull/1234))
+- ⚡️ Build downloads on the build platform instead of under emulation [@elcajon](https://github.com/elcajon) ([#1238](https://github.com/elcajon/app-code-server/pull/1238))
 
 ### 🚀 Enhancements
 
 - 🏗️ Follow Home Assistant's add-on to app rename and restore aarch64 [@elcajon](https://github.com/elcajon) ([#1224](https://github.com/elcajon/app-code-server/pull/1224))
+- ⚡️ Build downloads on the build platform instead of under emulation [@elcajon](https://github.com/elcajon) ([#1238](https://github.com/elcajon/app-code-server/pull/1238))
 
 ### 🧰 Maintenance
 
