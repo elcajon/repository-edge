@@ -49,6 +49,16 @@ Code Server experience integrated in the Home Assistant frontend.
 
 [:books: Advanced Code Server add-on documentation][addon-doc-code-server]
 
+### &#10003; [App Assistant][addon-app-assistant]
+
+![Latest Version][app-assistant-version-shield]
+![Supports aarch64 Architecture][app-assistant-aarch64-shield]
+![Supports amd64 Architecture][app-assistant-amd64-shield]
+
+Move an installed app to its new repository, keeping options and data
+
+[:books: App Assistant add-on documentation][addon-doc-app-assistant]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -64,6 +74,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Advanced Code Server][code-server-issue]
+- [Open an issue for the add-on: App Assistant][app-assistant-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -97,6 +108,12 @@ SOFTWARE.
 [code-server-version-shield]: https://img.shields.io/badge/version-66371bb-blue.svg
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[addon-app-assistant]: https://github.com/elcajon/app-assistant/tree/354e596
+[addon-doc-app-assistant]: https://github.com/elcajon/app-assistant/blob/354e596/README.md
+[app-assistant-issue]: https://github.com/elcajon/app-assistant/issues
+[app-assistant-version-shield]: https://img.shields.io/badge/version-354e596-blue.svg
+[app-assistant-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[app-assistant-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [gitlabci-shield]: https://gitlab.com/elcajon/repository-edge/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/elcajon/repository-edge/pipelines
 [issue]: https://github.com/elcajon/repository-edge/issues

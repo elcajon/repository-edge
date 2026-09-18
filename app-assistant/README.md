@@ -1,0 +1,16 @@
+# Home Assistant App: App Assistant
+
+Move an app to its new repository with verified backups, staged data transfer
+and a durable migration journal. The app slug is `app-assistant`.
+
+**Experimental:** validate on a disposable Supervisor installation first.
+This app requires Docker access and disabled protection mode. Check the target
+app's functionality before confirming migration or removing the source.
+
+## Edge version
+
+This is a development build. It may be incomplete or fail. Keep a full system
+backup and read the documentation before using it.
+
+Version: 354e596
+Source: https://github.com/elcajon/app-assistant
