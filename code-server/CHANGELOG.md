@@ -247,3 +247,5 @@
 - 🔧 Fix Renovate tracking for extensions and >= pins [@elcajon](https://github.com/elcajon) ([#1225](https://github.com/elcajon/app-code-server/pull/1225))
 - ⬆️ Update astral-sh/ruff-vscode to v2025.32.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1229](https://github.com/elcajon/app-code-server/pull/1229))
 - ⬆️ Update git-crypt to v0.7.0-0.1+b1 @[renovate[bot]](https://github.com/apps/renovate) ([#1228](https://github.com/elcajon/app-code-server/pull/1228))
+- ⬆️ Update emilast/vscode-logfile-highlighter to v3.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1230](https://github.com/elcajon/app-code-server/pull/1230))
+- ⬆️ Update microsoft/vscode-containers to v2.5.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1231](https://github.com/elcajon/app-code-server/pull/1231))
