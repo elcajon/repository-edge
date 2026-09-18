@@ -49,6 +49,16 @@ Code Server experience integrated in the Home Assistant frontend.
 
 [:books: Advanced Code Server add-on documentation][addon-doc-code-server]
 
+### &#10003; [App Migration Assistant][addon-migration-assistant]
+
+![Latest Version][migration-assistant-version-shield]
+![Supports aarch64 Architecture][migration-assistant-aarch64-shield]
+![Supports amd64 Architecture][migration-assistant-amd64-shield]
+
+Move an installed app to its new repository, keeping options and data
+
+[:books: App Migration Assistant add-on documentation][addon-doc-migration-assistant]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -64,6 +74,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Advanced Code Server][code-server-issue]
+- [Open an issue for the add-on: App Migration Assistant][migration-assistant-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -97,6 +108,12 @@ SOFTWARE.
 [code-server-version-shield]: https://img.shields.io/badge/version-3aafd8b-blue.svg
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[addon-migration-assistant]: https://github.com/elcajon/app-migration-assistant/tree/5c2a31c
+[addon-doc-migration-assistant]: https://github.com/elcajon/app-migration-assistant/blob/5c2a31c/README.md
+[migration-assistant-issue]: https://github.com/elcajon/app-migration-assistant/issues
+[migration-assistant-version-shield]: https://img.shields.io/badge/version-5c2a31c-blue.svg
+[migration-assistant-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[migration-assistant-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [gitlabci-shield]: https://gitlab.com/elcajon/repository-edge/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/elcajon/repository-edge/pipelines
 [issue]: https://github.com/elcajon/repository-edge/issues
