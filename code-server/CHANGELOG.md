@@ -249,3 +249,4 @@
 - ⬆️ Update git-crypt to v0.7.0-0.1+b1 @[renovate[bot]](https://github.com/apps/renovate) ([#1228](https://github.com/elcajon/app-code-server/pull/1228))
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1230](https://github.com/elcajon/app-code-server/pull/1230))
 - ⬆️ Update microsoft/vscode-containers to v2.5.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1231](https://github.com/elcajon/app-code-server/pull/1231))
+- ⬆️ Update microsoft/vscode-pull-request-github to v0.162.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1232](https://github.com/elcajon/app-code-server/pull/1232))
