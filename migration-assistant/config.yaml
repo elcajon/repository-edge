@@ -1,5 +1,5 @@
 name: App Migration Assistant
-version: 440472f
+version: c91fde6
 slug: migration-assistant
 description: Move an installed app to its new repository, keeping options and 
   data
