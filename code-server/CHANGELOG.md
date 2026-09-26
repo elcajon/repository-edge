@@ -265,3 +265,4 @@
 - ⬆️ Update coder/code-server to v4.138.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1241](https://github.com/elcajon/app-code-server/pull/1241))
 - ⬆️ Update microsoft/vscode-containers to v2.5.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1242](https://github.com/elcajon/app-code-server/pull/1242))
 - ⬆️ Update astral-sh/ruff-vscode to v2026.84.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1243](https://github.com/elcajon/app-code-server/pull/1243))
+- ⬆️ Update coder/code-server to v4.139.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1244](https://github.com/elcajon/app-code-server/pull/1244))
