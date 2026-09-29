@@ -268,3 +268,4 @@
 - ⬆️ Update coder/code-server to v4.139.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1244](https://github.com/elcajon/app-code-server/pull/1244))
 - ⬆️ Update usernamehw/vscode-error-lens to v3.29.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1245](https://github.com/elcajon/app-code-server/pull/1245))
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1246](https://github.com/elcajon/app-code-server/pull/1246))
+- ⬆️ Update mikefarah/yq to v4.54.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1247](https://github.com/elcajon/app-code-server/pull/1247))
