@@ -270,3 +270,4 @@
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1246](https://github.com/elcajon/app-code-server/pull/1246))
 - ⬆️ Update mikefarah/yq to v4.54.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1247](https://github.com/elcajon/app-code-server/pull/1247))
 - ⬆️ Update esphome to v2026.9.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1249](https://github.com/elcajon/app-code-server/pull/1249))
+- ⬆️ Update docker-ce-cli to v5:29.8.2-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1250](https://github.com/elcajon/app-code-server/pull/1250))
