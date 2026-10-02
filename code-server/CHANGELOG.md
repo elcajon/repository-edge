@@ -273,3 +273,4 @@
 - ⬆️ Update docker-ce-cli to v5:29.8.2-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1250](https://github.com/elcajon/app-code-server/pull/1250))
 - ⬆️ Update coder/code-server to v4.140.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1252](https://github.com/elcajon/app-code-server/pull/1252))
 - ⬆️ Update homeassistant-apps/workflows digest to 4ba38fe @[renovate[bot]](https://github.com/apps/renovate) ([#1251](https://github.com/elcajon/app-code-server/pull/1251))
+- ⬆️ Update pkief/vscode-material-icon-theme to v5.39.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1253](https://github.com/elcajon/app-code-server/pull/1253))
