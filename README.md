@@ -108,10 +108,10 @@ SOFTWARE.
 [code-server-version-shield]: https://img.shields.io/badge/version-7cb5e89-blue.svg
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[addon-app-assistant]: https://github.com/elcajon/app-assistant/tree/f094946
-[addon-doc-app-assistant]: https://github.com/elcajon/app-assistant/blob/f094946/README.md
+[addon-app-assistant]: https://github.com/elcajon/app-assistant/tree/aad65f6
+[addon-doc-app-assistant]: https://github.com/elcajon/app-assistant/blob/aad65f6/README.md
 [app-assistant-issue]: https://github.com/elcajon/app-assistant/issues
-[app-assistant-version-shield]: https://img.shields.io/badge/version-f094946-blue.svg
+[app-assistant-version-shield]: https://img.shields.io/badge/version-aad65f6-blue.svg
 [app-assistant-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [app-assistant-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [gitlabci-shield]: https://gitlab.com/elcajon/repository-edge/badges/master/pipeline.svg
