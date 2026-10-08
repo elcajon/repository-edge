@@ -278,3 +278,4 @@
 - ⬆️ Update tailscale/tailscale to v1.104.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1256](https://github.com/elcajon/app-code-server/pull/1256))
 - ⬆️ Update homeassistant-apps/workflows digest to 535eddd @[renovate[bot]](https://github.com/apps/renovate) ([#1255](https://github.com/elcajon/app-code-server/pull/1255))
 - ⬆️ Update coder/code-server to v4.141.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1257](https://github.com/elcajon/app-code-server/pull/1257))
+- ⬆️ Update docker-ce-cli to v5:29.9.0-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1258](https://github.com/elcajon/app-code-server/pull/1258))
