@@ -275,3 +275,4 @@
 - ⬆️ Update homeassistant-apps/workflows digest to 4ba38fe @[renovate[bot]](https://github.com/apps/renovate) ([#1251](https://github.com/elcajon/app-code-server/pull/1251))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.39.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1253](https://github.com/elcajon/app-code-server/pull/1253))
 - ⬆️ Update homeassistant-apps/workflows digest to 28ee308 @[renovate[bot]](https://github.com/apps/renovate) ([#1254](https://github.com/elcajon/app-code-server/pull/1254))
+- ⬆️ Update tailscale/tailscale to v1.104.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1256](https://github.com/elcajon/app-code-server/pull/1256))
