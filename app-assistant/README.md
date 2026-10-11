@@ -12,5 +12,5 @@ app's functionality before confirming migration or removing the source.
 This is a development build. It may be incomplete or fail. Keep a full system
 backup and read the documentation before using it.
 
-Version: aad65f6
+Version: 66e3065
 Source: https://github.com/elcajon/app-assistant
