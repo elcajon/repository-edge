@@ -281,3 +281,4 @@
 - ⬆️ Update docker-ce-cli to v5:29.9.0-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1258](https://github.com/elcajon/app-code-server/pull/1258))
 - ⬆️ Update astral-sh/ruff-vscode to v2026.86.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1259](https://github.com/elcajon/app-code-server/pull/1259))
 - ⬆️ Update redhat-developer/vscode-yaml to v1.25.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1260](https://github.com/elcajon/app-code-server/pull/1260))
+- ⬆️ Update docker-ce-cli to v5:29.9.1-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1261](https://github.com/elcajon/app-code-server/pull/1261))
