@@ -285,3 +285,5 @@
 - ⬆️ Update astral-sh/ruff-vscode to v2026.88.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1262](https://github.com/elcajon/app-code-server/pull/1262))
 - ⬆️ Update redhat-developer/vscode-yaml to v2 @[renovate[bot]](https://github.com/apps/renovate) ([#1263](https://github.com/elcajon/app-code-server/pull/1263))
 - ⬆️ Update microsoft/vscode-pull-request-github to v0.170.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1264](https://github.com/elcajon/app-code-server/pull/1264))
+- ⬆️ Update microsoft/vscode-containers to v2.5.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1265](https://github.com/elcajon/app-code-server/pull/1265))
+- ⬆️ Update home-assistant/cli to v5.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1266](https://github.com/elcajon/app-code-server/pull/1266))
