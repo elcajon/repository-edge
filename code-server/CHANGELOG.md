@@ -289,3 +289,4 @@
 - ⬆️ Update home-assistant/cli to v5.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1266](https://github.com/elcajon/app-code-server/pull/1266))
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1268](https://github.com/elcajon/app-code-server/pull/1268))
 - ⬆️ Update docker-ce-cli to v5:29.9.2-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1267](https://github.com/elcajon/app-code-server/pull/1267))
+- ⬆️ Update tailscale/tailscale to v1.104.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1269](https://github.com/elcajon/app-code-server/pull/1269))
