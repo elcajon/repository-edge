@@ -287,3 +287,4 @@
 - ⬆️ Update microsoft/vscode-pull-request-github to v0.170.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1264](https://github.com/elcajon/app-code-server/pull/1264))
 - ⬆️ Update microsoft/vscode-containers to v2.5.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1265](https://github.com/elcajon/app-code-server/pull/1265))
 - ⬆️ Update home-assistant/cli to v5.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1266](https://github.com/elcajon/app-code-server/pull/1266))
+- ⬆️ Update emilast/vscode-logfile-highlighter to v3.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1268](https://github.com/elcajon/app-code-server/pull/1268))
