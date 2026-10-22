@@ -294,3 +294,4 @@
 - ⬆️ Update microsoft/vscode-pull-request-github to v0.172.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1271](https://github.com/elcajon/app-code-server/pull/1271))
 - ⬆️ Update debian-base to v9.5.1 and fix openssl pin [@elcajon](https://github.com/elcajon) ([#1273](https://github.com/elcajon/app-code-server/pull/1273))
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 - abandoned @[renovate[bot]](https://github.com/apps/renovate) ([#1272](https://github.com/elcajon/app-code-server/pull/1272))
+- ⬆️ Update astral-sh/ruff-vscode to v2026.90.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1274](https://github.com/elcajon/app-code-server/pull/1274))
