@@ -2,6 +2,7 @@
 
 ## Unreleased changes since dev - 2026-09-18
 
+- Merge pull request #12 from elcajon/renovate/actions-setup-node-7.x
 - Merge pull request #8 from elcajon/renovate/pin-dependencies
 - Merge pull request #13 from elcajon/renovate/actions-setup-python-7.x
 - Merge pull request #14 from elcajon/renovate/ruff-0.x
