@@ -301,3 +301,4 @@
 - ⬆️ Update homeassistant-apps/workflows digest to b705587 @[renovate[bot]](https://github.com/apps/renovate) ([#1275](https://github.com/elcajon/app-code-server/pull/1275))
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.8.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1279](https://github.com/elcajon/app-code-server/pull/1279))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.40.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1280](https://github.com/elcajon/app-code-server/pull/1280))
+- ⬆️ Update astral-sh/ruff-vscode to v2026.92.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1282](https://github.com/elcajon/app-code-server/pull/1282))
