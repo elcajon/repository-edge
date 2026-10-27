@@ -302,3 +302,4 @@
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.8.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1279](https://github.com/elcajon/app-code-server/pull/1279))
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.40.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1280](https://github.com/elcajon/app-code-server/pull/1280))
 - ⬆️ Update astral-sh/ruff-vscode to v2026.92.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1282](https://github.com/elcajon/app-code-server/pull/1282))
+- ⬆️ Update esphome to v2026.10.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1281](https://github.com/elcajon/app-code-server/pull/1281))
