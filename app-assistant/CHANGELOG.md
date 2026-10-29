@@ -2,6 +2,8 @@
 
 ## Unreleased changes since dev - 2026-09-18
 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#22)
+- ⬆️ Update python3 to v3.14.10-r1 (#23)
 - Merge pull request #12 from elcajon/renovate/actions-setup-node-7.x
 - Merge pull request #8 from elcajon/renovate/pin-dependencies
 - Merge pull request #13 from elcajon/renovate/actions-setup-python-7.x
