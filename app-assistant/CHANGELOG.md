@@ -2,6 +2,8 @@
 
 ## Unreleased changes since dev - 2026-09-18
 
+- ⬆️ Update actions/setup-python action to v7.1.0 (#25)
+- ⬆️ Update docker/login-action action to v4.7.0 (#26)
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#22)
 - ⬆️ Update python3 to v3.14.10-r1 (#23)
 - Merge pull request #12 from elcajon/renovate/actions-setup-node-7.x
