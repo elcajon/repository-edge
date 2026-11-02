@@ -305,3 +305,4 @@
 - ⬆️ Update esphome to v2026.10.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1281](https://github.com/elcajon/app-code-server/pull/1281))
 - ⬆️ Update tailscale/tailscale to v1.104.4 @[renovate[bot]](https://github.com/apps/renovate) ([#1283](https://github.com/elcajon/app-code-server/pull/1283))
 - ⬆️ Update coder/code-server to v4.144.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1284](https://github.com/elcajon/app-code-server/pull/1284))
+- ⬆️ Update esphome to v2026.10.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1285](https://github.com/elcajon/app-code-server/pull/1285))
