@@ -308,3 +308,4 @@
 - ⬆️ Update esphome to v2026.10.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1285](https://github.com/elcajon/app-code-server/pull/1285))
 - ⬆️ Update tailscale/tailscale to v1.104.5 @[renovate[bot]](https://github.com/apps/renovate) ([#1286](https://github.com/elcajon/app-code-server/pull/1286))
 - ⬆️ Update docker-ce-cli to v5:29.9.3-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1287](https://github.com/elcajon/app-code-server/pull/1287))
+- ⬆️ Update microsoft/vscode-pull-request-github to v0.176.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1288](https://github.com/elcajon/app-code-server/pull/1288))
