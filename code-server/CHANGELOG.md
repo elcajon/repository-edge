@@ -311,3 +311,4 @@
 - ⬆️ Update microsoft/vscode-pull-request-github to v0.176.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1288](https://github.com/elcajon/app-code-server/pull/1288))
 - ⬆️ Update coder/code-server to v4.145.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1290](https://github.com/elcajon/app-code-server/pull/1290))
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1289](https://github.com/elcajon/app-code-server/pull/1289))
+- ⬆️ Update microsoft/vscode-pull-request-github to v0.176.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1292](https://github.com/elcajon/app-code-server/pull/1292))
