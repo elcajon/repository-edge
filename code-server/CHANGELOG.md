@@ -312,3 +312,5 @@
 - ⬆️ Update coder/code-server to v4.145.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1290](https://github.com/elcajon/app-code-server/pull/1290))
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1289](https://github.com/elcajon/app-code-server/pull/1289))
 - ⬆️ Update microsoft/vscode-pull-request-github to v0.176.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1292](https://github.com/elcajon/app-code-server/pull/1292))
+- ⬆️ Update homeassistant-apps/workflows digest to 401942a @[renovate[bot]](https://github.com/apps/renovate) ([#1291](https://github.com/elcajon/app-code-server/pull/1291))
+- ⬆️ Update docker/login-action action to v4.8.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1294](https://github.com/elcajon/app-code-server/pull/1294))
