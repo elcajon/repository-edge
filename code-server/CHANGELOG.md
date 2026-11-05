@@ -314,3 +314,4 @@
 - ⬆️ Update microsoft/vscode-pull-request-github to v0.176.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1292](https://github.com/elcajon/app-code-server/pull/1292))
 - ⬆️ Update homeassistant-apps/workflows digest to 401942a @[renovate[bot]](https://github.com/apps/renovate) ([#1291](https://github.com/elcajon/app-code-server/pull/1291))
 - ⬆️ Update docker/login-action action to v4.8.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1294](https://github.com/elcajon/app-code-server/pull/1294))
+- ⬆️ Update astral-sh/ruff-vscode to v2026.94.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1293](https://github.com/elcajon/app-code-server/pull/1293))
