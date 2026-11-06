@@ -2,6 +2,7 @@
 
 ## Unreleased changes since dev - 2026-09-18
 
+- ⬆️ Update docker/login-action action to v4.8.0 (#29)
 - ⬆️ Update actions/setup-python action to v7.1.0 (#25)
 - ⬆️ Update docker/login-action action to v4.7.0 (#26)
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#22)
