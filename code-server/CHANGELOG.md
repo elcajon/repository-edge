@@ -318,3 +318,4 @@
 - ⬆️ Update mikefarah/yq to v4.54.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1295](https://github.com/elcajon/app-code-server/pull/1295))
 - ⬆️ Update coder/code-server to v4.145.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1296](https://github.com/elcajon/app-code-server/pull/1296))
 - ⬆️ Update mikefarah/yq to v4.54.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1297](https://github.com/elcajon/app-code-server/pull/1297))
+- ⬆️ Update tailscale/tailscale to v1.104.6 @[renovate[bot]](https://github.com/apps/renovate) ([#1298](https://github.com/elcajon/app-code-server/pull/1298))
