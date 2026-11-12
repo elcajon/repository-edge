@@ -102,10 +102,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-code-server]: https://github.com/elcajon/app-code-server/tree/5be5c37
-[addon-doc-code-server]: https://github.com/elcajon/app-code-server/blob/5be5c37/README.md
+[addon-code-server]: https://github.com/elcajon/app-code-server/tree/70cac5b
+[addon-doc-code-server]: https://github.com/elcajon/app-code-server/blob/70cac5b/README.md
 [code-server-issue]: https://github.com/elcajon/app-code-server/issues
-[code-server-version-shield]: https://img.shields.io/badge/version-5be5c37-blue.svg
+[code-server-version-shield]: https://img.shields.io/badge/version-70cac5b-blue.svg
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [addon-app-assistant]: https://github.com/elcajon/app-assistant/tree/4878648

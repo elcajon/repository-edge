@@ -320,3 +320,5 @@
 - ⬆️ Update mikefarah/yq to v4.54.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1297](https://github.com/elcajon/app-code-server/pull/1297))
 - ⬆️ Update tailscale/tailscale to v1.104.6 @[renovate[bot]](https://github.com/apps/renovate) ([#1298](https://github.com/elcajon/app-code-server/pull/1298))
 - ⬆️ Update home-assistant/cli to v5.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1299](https://github.com/elcajon/app-code-server/pull/1299))
+- ⬆️ Update astral-sh/ruff-vscode to v2026.96.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1301](https://github.com/elcajon/app-code-server/pull/1301))
+- ⬆️ Update tailscale/tailscale to v1.104.7 @[renovate[bot]](https://github.com/apps/renovate) ([#1300](https://github.com/elcajon/app-code-server/pull/1300))
