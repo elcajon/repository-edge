@@ -322,3 +322,4 @@
 - ⬆️ Update home-assistant/cli to v5.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1299](https://github.com/elcajon/app-code-server/pull/1299))
 - ⬆️ Update astral-sh/ruff-vscode to v2026.96.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1301](https://github.com/elcajon/app-code-server/pull/1301))
 - ⬆️ Update tailscale/tailscale to v1.104.7 @[renovate[bot]](https://github.com/apps/renovate) ([#1300](https://github.com/elcajon/app-code-server/pull/1300))
+- ⬆️ Update homeassistant-apps/workflows digest to d143c6d @[renovate[bot]](https://github.com/apps/renovate) ([#1302](https://github.com/elcajon/app-code-server/pull/1302))
