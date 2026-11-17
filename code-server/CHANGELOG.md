@@ -324,3 +324,4 @@
 - ⬆️ Update tailscale/tailscale to v1.104.7 @[renovate[bot]](https://github.com/apps/renovate) ([#1300](https://github.com/elcajon/app-code-server/pull/1300))
 - ⬆️ Update homeassistant-apps/workflows digest to d143c6d @[renovate[bot]](https://github.com/apps/renovate) ([#1302](https://github.com/elcajon/app-code-server/pull/1302))
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.9.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1303](https://github.com/elcajon/app-code-server/pull/1303))
+- ⬆️ Update docker-ce-cli to v5:29.10.0-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1304](https://github.com/elcajon/app-code-server/pull/1304))
