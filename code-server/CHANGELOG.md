@@ -327,3 +327,4 @@
 - ⬆️ Update docker-ce-cli to v5:29.10.0-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1304](https://github.com/elcajon/app-code-server/pull/1304))
 - ⬆️ Update home-assistant/cli to v6 @[renovate[bot]](https://github.com/apps/renovate) ([#1305](https://github.com/elcajon/app-code-server/pull/1305))
 - ⬆️ Update esphome to v2026.11.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1306](https://github.com/elcajon/app-code-server/pull/1306))
+- ⬆️ Update astral-sh/ruff-vscode to v2026.98.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1307](https://github.com/elcajon/app-code-server/pull/1307))
