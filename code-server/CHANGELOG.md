@@ -328,3 +328,4 @@
 - ⬆️ Update home-assistant/cli to v6 @[renovate[bot]](https://github.com/apps/renovate) ([#1305](https://github.com/elcajon/app-code-server/pull/1305))
 - ⬆️ Update esphome to v2026.11.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1306](https://github.com/elcajon/app-code-server/pull/1306))
 - ⬆️ Update astral-sh/ruff-vscode to v2026.98.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1307](https://github.com/elcajon/app-code-server/pull/1307))
+- ⬆️ Update emilast/vscode-logfile-highlighter to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#1308](https://github.com/elcajon/app-code-server/pull/1308))
