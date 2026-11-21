@@ -330,3 +330,4 @@
 - ⬆️ Update astral-sh/ruff-vscode to v2026.98.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1307](https://github.com/elcajon/app-code-server/pull/1307))
 - ⬆️ Update emilast/vscode-logfile-highlighter to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#1308](https://github.com/elcajon/app-code-server/pull/1308))
 - ⬆️ Update coder/code-server to v4.146.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1309](https://github.com/elcajon/app-code-server/pull/1309))
+- ⬆️ Update emilast/vscode-logfile-highlighter to v4.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1310](https://github.com/elcajon/app-code-server/pull/1310))
