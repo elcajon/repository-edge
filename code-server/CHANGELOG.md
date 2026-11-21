@@ -331,3 +331,4 @@
 - ⬆️ Update emilast/vscode-logfile-highlighter to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#1308](https://github.com/elcajon/app-code-server/pull/1308))
 - ⬆️ Update coder/code-server to v4.146.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1309](https://github.com/elcajon/app-code-server/pull/1309))
 - ⬆️ Update emilast/vscode-logfile-highlighter to v4.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1310](https://github.com/elcajon/app-code-server/pull/1310))
+- ⬆️ Update stale Debian package pins (locales, mariadb-client, zsh, apt-transport-https) [@elcajon](https://github.com/elcajon) ([#1313](https://github.com/elcajon/app-code-server/pull/1313))
