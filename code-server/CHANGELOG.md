@@ -333,3 +333,4 @@
 - ⬆️ Update emilast/vscode-logfile-highlighter to v4.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1310](https://github.com/elcajon/app-code-server/pull/1310))
 - ⬆️ Update stale Debian package pins (locales, mariadb-client, zsh, apt-transport-https) [@elcajon](https://github.com/elcajon) ([#1313](https://github.com/elcajon/app-code-server/pull/1313))
 - ⬆️ Update openssl to v3.5.9-1~deb13u1 @[renovate[bot]](https://github.com/apps/renovate) ([#1314](https://github.com/elcajon/app-code-server/pull/1314))
+- ⬆️ Update emilast/vscode-logfile-highlighter to v4.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1315](https://github.com/elcajon/app-code-server/pull/1315))
