@@ -336,3 +336,4 @@
 - ⬆️ Update emilast/vscode-logfile-highlighter to v4.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1315](https://github.com/elcajon/app-code-server/pull/1315))
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.63.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1316](https://github.com/elcajon/app-code-server/pull/1316))
 - ⬆️ Update docker-ce-cli to v5:29.10.1-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1317](https://github.com/elcajon/app-code-server/pull/1317))
+- ⬆️ Update esphome to v2026.11.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1318](https://github.com/elcajon/app-code-server/pull/1318))
