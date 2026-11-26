@@ -339,3 +339,4 @@
 - ⬆️ Update esphome to v2026.11.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1318](https://github.com/elcajon/app-code-server/pull/1318))
 - ⬆️ Update microsoft/vscode-pull-request-github to v0.182.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1319](https://github.com/elcajon/app-code-server/pull/1319))
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.63.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1320](https://github.com/elcajon/app-code-server/pull/1320))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1321](https://github.com/elcajon/app-code-server/pull/1321))
