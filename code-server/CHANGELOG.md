@@ -338,3 +338,4 @@
 - ⬆️ Update docker-ce-cli to v5:29.10.1-1~debian.13~trixie @[renovate[bot]](https://github.com/apps/renovate) ([#1317](https://github.com/elcajon/app-code-server/pull/1317))
 - ⬆️ Update esphome to v2026.11.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1318](https://github.com/elcajon/app-code-server/pull/1318))
 - ⬆️ Update microsoft/vscode-pull-request-github to v0.182.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1319](https://github.com/elcajon/app-code-server/pull/1319))
+- ⬆️ Update DavidAnson/vscode-markdownlint to v0.63.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1320](https://github.com/elcajon/app-code-server/pull/1320))
